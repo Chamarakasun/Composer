@@ -1,1 +1,1 @@
-# Composer
+composer require stripe/stripe-php
